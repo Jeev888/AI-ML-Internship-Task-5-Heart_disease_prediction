@@ -76,7 +76,7 @@ Using the **Heart Disease Dataset**, we train and evaluate **Decision Trees** an
 ![Feature Importance](feature_importance(RF).png)
 ---
 
-## 📌 Conclusion
+## Conclusion
 Tree-based models perform exceptionally well on this dataset.  
 While a deep Decision Tree achieves high accuracy, **Random Forest** provides a more generalizable and robust solution.
 
